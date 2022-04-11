@@ -1,19 +1,50 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Hadeel A. Salah",
+      "username": "",
+      "email": "h.salah.technical@gmail.com",
+      "phone": "5252525252",
+      "companiesId": "2",
+      "id": 8
+    },
+    {
+      "name": "Hadeel A. Salah",
+      "username": "",
+      "email": "h.salah.technical@gmail.com",
+      "phone": "5252525252",
+      "companiesId": "3",
+      "id": 9
+    },
+    {
+      "name": "Hadeel A. Salah",
+      "username": "",
+      "email": "h.salah.technical@gmail.com",
+      "phone": "2244668812",
+      "companiesId": "4",
+      "id": 10
     }
   ],
-  "comments": [
+  "companies": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Bounsly",
+      "catchPhrase": ""
+    },
+    {
+      "id": 2,
+      "name": "Speak_",
+      "catchPhrase": ""
+    },
+    {
+      "id": 3,
+      "name": "LTSE",
+      "catchPhrase": ""
+    },
+    {
+      "id": 4,
+      "name": "GoDaddy",
+      "catchPhrase": ""
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
